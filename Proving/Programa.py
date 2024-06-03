@@ -1,4 +1,3 @@
-#Video explicativo: https://drive.google.com/file/d/1hqph4gaz9lQIvpt4lRdi0GTNp9vx7-om/view?usp=sharing
 import json
 import os
 import Validacion
