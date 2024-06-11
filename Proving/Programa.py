@@ -449,8 +449,9 @@ def submenu_informes_mensuales():
             menu_principal()
         else:
             print("Opción inválida. Intente de nuevo.")
-# Iniciar el menú principal
+#lectura o escrutura de archivos JSON
 Crear_json_Categorias()
 Crear_json_Docentes()
 Crear_json_Informes()
+# Iniciar el menú principal
 menu_principal()
